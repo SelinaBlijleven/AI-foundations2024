@@ -14,7 +14,7 @@ exam.
 | The Singularity is Near                                                                                                     | Ray Kurzweil                                       | ISBN: 9780715635612              |
 | The Fourth Industrial Revolution                                                                                            | Klaus Schwab                                       | ISBN: 9780241300756              | 
 
-### Materials from class
+## Materials from class
 
 
 ### Articles
@@ -51,6 +51,8 @@ The movie actually gets a lot of things right about learning from experience and
 
 ### Articles
 
+- [Eigenfaces & facial recognition](https://nl.wikipedia.org/wiki/Eigenface)
+
 ### Books
 
 The following two links go to a GitHub repository maintained by the Ebook Foundation, containing many free programming books.
@@ -63,10 +65,28 @@ Relevant & fun books
 - [Python Data Science Handbook (free with account)](https://www.oreilly.com/library/view/python-data-science/9781491912126/)
 - [Machine Learning for Hackers (R, free with account)](https://www.oreilly.com/library/view/machine-learning-for/9781449330514/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
+- [Data Science with R (2nd edition, free online edition)](https://r4ds.hadley.nz/)
 
 ### Datasets
 
 - [Kaggle Datasets](https://www.kaggle.com/datasets): Datasets to experiment with, very useful for exploring machine learning.
+
+### Libraries
+
+The following list contains some interesting libraries to explore in Python:
+- NumPy (Numerical Python)
+- Pandas (data analysis)
+
+- [VaderSentiment](https://vadersentiment.readthedocs.io/en/latest/) (sentiment analysis)
+
+
+#### Machine Learning
+
+- Sklearn (ML toolkit)
+- [TensorFlow](https://www.tensorflow.org/)
+- [Keras](https://keras.io/)
+- [Matplotlib/Seaborn](https://seaborn.pydata.org/tutorial/introduction.html) (data visualization, seaborn is an extension of matplotlib)
+- [Pytorch](https://pytorch.org/)
 
 ### Online courses
 
@@ -76,6 +96,10 @@ They also offer their own courses, including reading material and interactive Py
 there are plenty of useful courses on KhanAcademy to help you brush up on all the relevant math.
 - [KhanAcademy (cryptography)](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/intro-to-cryptography): Extra topic, provides more 
 information about ancient cryptography and how Alan Turing was involved in eventually cracking the enigma code.
+
+### Projects
+
+- [Machine Learning simulations project in R](https://github.com/davpinto/ml-simulations)
 
 ### Videos
 
