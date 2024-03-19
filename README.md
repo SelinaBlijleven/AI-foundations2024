@@ -70,6 +70,7 @@ Relevant & fun books
 ### Datasets
 
 - [Kaggle Datasets](https://www.kaggle.com/datasets): Datasets to experiment with, very useful for exploring machine learning.
+- [Draw a dataset with data.xyz](https://www.data.xyz)
 
 ### Libraries
 
@@ -107,3 +108,7 @@ information about ancient cryptography and how Alan Turing was involved in event
 by a wonderful lady who specializes in weird AI behaviour. She also has a [blog](https://www.aiweirdness.com/)!
 - [Code Bullet](https://www.youtube.com/watch?v=g39AagVW0s0): YouTuber who does silly hobby projects with AI. A great way to get motivated
 for your own personal projects.
+
+### Visualization
+
+- [Visualize different charts from CSV online](https://app.rawgraphs.io/)
