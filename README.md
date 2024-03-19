@@ -67,26 +67,25 @@ Relevant & fun books
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
 - [Data Science with R (2nd edition, free online edition)](https://r4ds.hadley.nz/)
 
-### Datasets
+### Datasets & Visualization
 
 - [Kaggle Datasets](https://www.kaggle.com/datasets): Datasets to experiment with, very useful for exploring machine learning.
 - [Draw a dataset with data.xyz](https://www.data.xyz)
+- [Visualize different charts from CSV online](https://app.rawgraphs.io/)
 
 ### Libraries
 
 The following list contains some interesting libraries to explore in Python:
 - NumPy (Numerical Python)
 - Pandas (data analysis)
-
 - [VaderSentiment](https://vadersentiment.readthedocs.io/en/latest/) (sentiment analysis)
-
+- [Matplotlib/Seaborn](https://seaborn.pydata.org/tutorial/introduction.html) (data visualization, seaborn is an extension of matplotlib)
 
 #### Machine Learning
 
-- Sklearn (ML toolkit)
+- Sklearn (ML toolkit) (used for the ML demos)
 - [TensorFlow](https://www.tensorflow.org/)
 - [Keras](https://keras.io/)
-- [Matplotlib/Seaborn](https://seaborn.pydata.org/tutorial/introduction.html) (data visualization, seaborn is an extension of matplotlib)
 - [Pytorch](https://pytorch.org/)
 
 ### Online courses
@@ -98,10 +97,6 @@ there are plenty of useful courses on KhanAcademy to help you brush up on all th
 - [KhanAcademy (cryptography)](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/intro-to-cryptography): Extra topic, provides more 
 information about ancient cryptography and how Alan Turing was involved in eventually cracking the enigma code.
 
-### Projects
-
-- [Machine Learning simulations project in R](https://github.com/davpinto/ml-simulations)
-
 ### Videos
 
 - [The danger of AI is weirder than you think (Ted Talk by Janelle Shane)](https://www.youtube.com/watch?v=OhCzX0iLnOc): A TED talk 
@@ -109,6 +104,3 @@ by a wonderful lady who specializes in weird AI behaviour. She also has a [blog]
 - [Code Bullet](https://www.youtube.com/watch?v=g39AagVW0s0): YouTuber who does silly hobby projects with AI. A great way to get motivated
 for your own personal projects.
 
-### Visualization
-
-- [Visualize different charts from CSV online](https://app.rawgraphs.io/)
