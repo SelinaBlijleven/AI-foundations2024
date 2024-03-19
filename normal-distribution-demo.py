@@ -13,8 +13,8 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 # Parameters
-mu, sigma = 10, 1  # Mean and standard deviation of the normal distribution
-sample_sizes = [100, 1000, 10000]  # Different sample sizes
+mu, sigma = 100, 15  # Mean and standard deviation of the normal distribution
+sample_sizes = [100, 1000, 10000, 100000]  # Different sample sizes
 
 # Create subplots
 fig, axs = plt.subplots(len(sample_sizes), figsize=(8, 6))
