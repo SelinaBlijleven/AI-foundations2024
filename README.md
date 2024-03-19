@@ -104,3 +104,7 @@ by a wonderful lady who specializes in weird AI behaviour. She also has a [blog]
 - [Code Bullet](https://www.youtube.com/watch?v=g39AagVW0s0): YouTuber who does silly hobby projects with AI. A great way to get motivated
 for your own personal projects.
 
+## Contact
+
+- E-mail/teams: selina.blijleven@code-cafe.nl
+- Discord: @linaanna

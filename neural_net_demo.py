@@ -30,7 +30,7 @@ clf = MLPClassifier(
     alpha=1e-4,  # Regularisation to make the model generalizable
     solver='adam',  # Solver for optimized gradient descent
     verbose=10,  # Print a lot so we know what is going on
-    random_state=42,  # Passing an int for the random state to ensure reproducability
+    #random_state=42,  # Passing an int for the random state to ensure reproducability
     learning_rate_init=0.001  # Initial learning rate
 )
 
