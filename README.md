@@ -1,7 +1,7 @@
 # Exin AI Foundation Materials
 
 This repository contains useful information and links for the Exin AI Foundations 
-exam.
+exam. Any reuploads of Exin material are password protected and not for public use.
 
 ## Required literature
 
