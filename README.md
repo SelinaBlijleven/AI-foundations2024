@@ -26,6 +26,8 @@ exam.
 - [OpenAI Hide & Seek](https://www.youtube.com/watch?v=Lu56xVlZ40M): Video about research done by OpenAI on multi-agent systems that play hide and seek.
 - [Chappie snippet](https://www.youtube.com/watch?v=At_C4jfxEg0): Clip from a movie (Chappie, 2015) where a police droid is stolen and trained by criminals.
 The movie actually gets a lot of things right about learning from experience and how data influences AI behaviour.
+- [Racist robot Tay (Microsoft)](https://www.youtube.com/watch?v=Lr4yi9onykg)
+- 
 
 ## Further study
 
@@ -52,6 +54,7 @@ The movie actually gets a lot of things right about learning from experience and
 ### Articles
 
 - [Eigenfaces & facial recognition](https://nl.wikipedia.org/wiki/Eigenface)
+- [AI Timeline (with infographic)](https://digitalwellbeing.org/artificial-intelligence-timeline-infographic-from-eliza-to-tay-and-beyond/)
 
 ### Books
 
