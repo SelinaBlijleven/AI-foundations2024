@@ -55,6 +55,7 @@ The movie actually gets a lot of things right about learning from experience and
 
 - [Eigenfaces & facial recognition](https://nl.wikipedia.org/wiki/Eigenface)
 - [AI Timeline (with infographic)](https://digitalwellbeing.org/artificial-intelligence-timeline-infographic-from-eliza-to-tay-and-beyond/)
+- [Explaining neural networks through mathematical modeling (released 12-03-2024)](https://phys.org/news/2024-03-neural-networks-mathematical-formula-relevant.html)
 
 ### Books
 
