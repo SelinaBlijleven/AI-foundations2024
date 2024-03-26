@@ -16,10 +16,12 @@ exam. Any reuploads of Exin material are password protected and not for public u
 
 ## Materials from class
 
+The following materials have been shared in class or referred to in class.
 
 ### Articles
 
 - [What is an ontology?](https://medium.com/seek-blog/ontology-whats-that-17679130aa69)
+- [Google Gemini goes overboard with inclusivity](https://www.nytimes.com/2024/02/22/technology/google-gemini-german-uniforms.html)
 
 ### Misc.
 
