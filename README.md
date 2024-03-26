@@ -21,12 +21,17 @@ exam. Any reuploads of Exin material are password protected and not for public u
 
 - [What is an ontology?](https://medium.com/seek-blog/ontology-whats-that-17679130aa69)
 
+### Misc.
+
+- [Run computational simulations with NetLogo](https://netlogoweb.org/launch#https://netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Wolf%20Sheep%20Predation.nlogo)
+
 ### Videos 
 
 - [OpenAI Hide & Seek](https://www.youtube.com/watch?v=Lu56xVlZ40M): Video about research done by OpenAI on multi-agent systems that play hide and seek.
 - [Chappie snippet](https://www.youtube.com/watch?v=At_C4jfxEg0): Clip from a movie (Chappie, 2015) where a police droid is stolen and trained by criminals.
 The movie actually gets a lot of things right about learning from experience and how data influences AI behaviour.
 - [Racist robot Tay (Microsoft)](https://www.youtube.com/watch?v=Lr4yi9onykg)
+- [OpenAI speech-to-speech reasoning with an intelligent agent](https://www.youtube.com/watch?v=Sq1QZB5baNw)
 
 ## Further study
 
