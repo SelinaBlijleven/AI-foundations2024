@@ -1,0 +1,114 @@
+AI
+IoT
+ANN
+NN
+CNN
+ML
+OCR
+NLP
+DL
+DNN
+AGI
+CPU
+GPU
+RPA
+CART
+IT
+IQ
+EQ
+NLU
+Activation Function
+Agent Modelling
+Algorithm
+Artificial Intelligence
+Artificial General Intelligence
+Automation
+Autonomous
+Axon
+Axon Terminals
+Back-propagation
+Bayesian Network
+Bias
+Big Data
+Boosting
+Bootstrap Aggregating
+Chatbot
+Classification
+Clustering
+Cognitive Simulation
+Combinatorial Explosion
+Connectionist
+Data Analytics
+Data Cleaning
+Data Mining
+Data Science
+Data Scrubbing
+Decision Trees
+Deep Learning
+Dendrites
+Design for All
+Edges (Network)
+Ensemble
+Expert Systems
+Feedforward Neural Network
+Fourth Industrial Revolution
+Functionality
+Genetic Algorithms
+Hardware
+Heuristic
+High Performance Computing
+Hyper-parameters
+Inductive reasoning
+Internet of Things
+K-means
+K-nearest Neighbours
+Layers (Network)
+Linear Algebra
+Logistic Regression
+Machine Learning
+Model Optimization
+Narrow AI
+Natural Language Processing
+Neurolinguistic Programming
+Natural Language Understanding
+Nearest Neighbor Algorithm
+Neural Network
+Nodes (Network)
+Objective
+One-hot encoding
+Ontology
+Optical Character Recognition
+Overfitting
+Overtraining
+Probabilistic Inference
+Probability
+Pruning
+Python
+Random Decision Forests
+Random Forests
+Regression Analysis
+Reinforcement Machine Learning
+Robotics
+Robotic Process Automation
+Scripting
+Search
+Semi-supervised Machine Learning
+Sigmoid Equation
+Software
+Software Robots
+Strong AI
+Subjective
+Super Computing
+Support Vector Machine
+Swarm Intelligence
+Symbolic
+System
+Turing Machine
+Unsupervised Machine Learning
+Underfitting
+Universal Design
+Validation Data
+Variance
+Visualization
+Weak AI
+Weights
