@@ -43,6 +43,7 @@ exam and lesson material. Any reuploads of Exin material are password protected 
 - [Explaining neural networks through mathematical modeling (released 12-03-2024)](https://phys.org/news/2024-03-neural-networks-mathematical-formula-relevant.html)
 - [What is an ontology?](https://medium.com/seek-blog/ontology-whats-that-17679130aa69)
 - [Google Gemini goes overboard with inclusivity](https://www.nytimes.com/2024/02/22/technology/google-gemini-german-uniforms.html)
+- [The Unreasonable Effectiveness of Data (Norvig 2009)](https://static.googleusercontent.com/media/research.google.com/nl//pubs/archive/35179.pdf)
 
 ### Books
 
@@ -73,6 +74,13 @@ The following list contains some interesting libraries to explore in Python:
 - [TensorFlow](https://www.tensorflow.org/)
 - [Keras](https://keras.io/)
 - [Pytorch](https://pytorch.org/)
+
+### Models
+
+It can save a lot of hassle to use a pre-existing model over training your own. Some good sources for ML models are:
+
+- [HuggingFace.com](https://huggingface.co/)
+- [Kaggle.com](https://www.kaggle.com)
 
 ### Online courses
 
