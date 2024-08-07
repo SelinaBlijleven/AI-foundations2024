@@ -51,8 +51,6 @@ You can search by language or by topic. Note that some subtopics of Artificial I
 for example, is separated from the Artificial Intelligence header. 
 - [List of free programming books by topic](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-subjects.md#artificial-intelligence)
 - [List of free programming books by programming language](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md)
-
-Relevant & fun books
 - [Python Data Science Handbook (free with account)](https://www.oreilly.com/library/view/python-data-science/9781491912126/)
 - [Machine Learning for Hackers (R, free with account)](https://www.oreilly.com/library/view/machine-learning-for/9781449330514/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/)
@@ -71,9 +69,6 @@ The following list contains some interesting libraries to explore in Python:
 - Pandas (data analysis)
 - [VaderSentiment](https://vadersentiment.readthedocs.io/en/latest/) (sentiment analysis)
 - [Matplotlib/Seaborn](https://seaborn.pydata.org/tutorial/introduction.html) (data visualization, seaborn is an extension of matplotlib)
-
-#### Machine Learning
-
 - Sklearn (ML toolkit) (used for the ML demos)
 - [TensorFlow](https://www.tensorflow.org/)
 - [Keras](https://keras.io/)
