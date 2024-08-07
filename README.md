@@ -33,7 +33,8 @@ The following materials have been shared in class or referred to in class.
 - [Chappie snippet](https://www.youtube.com/watch?v=At_C4jfxEg0): Clip from a movie (Chappie, 2015) where a police droid is stolen and trained by criminals.
 The movie actually gets a lot of things right about learning from experience and how data influences AI behaviour.
 - [Racist robot Tay (Microsoft)](https://www.youtube.com/watch?v=Lr4yi9onykg)
-- [OpenAI speech-to-speech reasoning with an intelligent agent](https://www.youtube.com/watch?v=Sq1QZB5baNw)
+- [Figure 01 - OpenAI speech-to-speech reasoning with an intelligent agent](https://www.youtube.com/watch?v=Sq1QZB5baNw)
+- [Figure 02 - OpenAI's new intelligent agent (06-08-2024)](https://www.youtube.com/watch?v=0SRVJaOg9Co)
 
 ## Further study
 
