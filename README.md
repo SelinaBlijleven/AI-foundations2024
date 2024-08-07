@@ -1,7 +1,7 @@
 # Exin AI Foundation Materials
 
 This repository contains useful information and links for the Exin AI Foundations 
-exam. Any reuploads of Exin material are password protected and not for public use.
+exam and lesson material. Any reuploads of Exin material are password protected and not for public use.
 
 ## Required literature
 
@@ -14,31 +14,9 @@ exam. Any reuploads of Exin material are password protected and not for public u
 | The Singularity is Near                                                                                                     | Ray Kurzweil                                       | ISBN: 9780715635612              |
 | The Fourth Industrial Revolution                                                                                            | Klaus Schwab                                       | ISBN: 9780241300756              | 
 
-## Materials from class
+## Materials
 
-The following materials have been shared in class or referred to in class.
-
-### Articles
-
-- [What is an ontology?](https://medium.com/seek-blog/ontology-whats-that-17679130aa69)
-- [Google Gemini goes overboard with inclusivity](https://www.nytimes.com/2024/02/22/technology/google-gemini-german-uniforms.html)
-
-### Misc.
-
-- [Run computational simulations with NetLogo](https://netlogoweb.org/launch#https://netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Wolf%20Sheep%20Predation.nlogo)
-
-### Videos 
-
-- [OpenAI Hide & Seek](https://www.youtube.com/watch?v=Lu56xVlZ40M): Video about research done by OpenAI on multi-agent systems that play hide and seek.
-- [Chappie snippet](https://www.youtube.com/watch?v=At_C4jfxEg0): Clip from a movie (Chappie, 2015) where a police droid is stolen and trained by criminals.
-The movie actually gets a lot of things right about learning from experience and how data influences AI behaviour.
-- [Racist robot Tay (Microsoft)](https://www.youtube.com/watch?v=Lr4yi9onykg)
-- [Figure 01 - OpenAI speech-to-speech reasoning with an intelligent agent](https://www.youtube.com/watch?v=Sq1QZB5baNw)
-- [Figure 02 - OpenAI's new intelligent agent (06-08-2024)](https://www.youtube.com/watch?v=0SRVJaOg9Co)
-
-## Further study
-
-## Materials suggested by Exin
+### Materials suggested by Exin
 
 | Title                                                                    | Author                                  | Source                                                             |
 |--------------------------------------------------------------------------|-----------------------------------------|--------------------------------------------------------------------|
@@ -63,6 +41,8 @@ The movie actually gets a lot of things right about learning from experience and
 - [Eigenfaces & facial recognition](https://nl.wikipedia.org/wiki/Eigenface)
 - [AI Timeline (with infographic)](https://digitalwellbeing.org/artificial-intelligence-timeline-infographic-from-eliza-to-tay-and-beyond/)
 - [Explaining neural networks through mathematical modeling (released 12-03-2024)](https://phys.org/news/2024-03-neural-networks-mathematical-formula-relevant.html)
+- [What is an ontology?](https://medium.com/seek-blog/ontology-whats-that-17679130aa69)
+- [Google Gemini goes overboard with inclusivity](https://www.nytimes.com/2024/02/22/technology/google-gemini-german-uniforms.html)
 
 ### Books
 
@@ -108,12 +88,22 @@ there are plenty of useful courses on KhanAcademy to help you brush up on all th
 - [KhanAcademy (cryptography)](https://www.khanacademy.org/computing/computer-science/cryptography/crypt/v/intro-to-cryptography): Extra topic, provides more 
 information about ancient cryptography and how Alan Turing was involved in eventually cracking the enigma code.
 
+### Simulation
+
+- [Run computational simulations with NetLogo](https://netlogoweb.org/launch#https://netlogoweb.org/assets/modelslib/Sample%20Models/Biology/Wolf%20Sheep%20Predation.nlogo)
+
 ### Videos
 
 - [The danger of AI is weirder than you think (Ted Talk by Janelle Shane)](https://www.youtube.com/watch?v=OhCzX0iLnOc): A TED talk 
 by a wonderful lady who specializes in weird AI behaviour. She also has a [blog](https://www.aiweirdness.com/)!
 - [Code Bullet](https://www.youtube.com/watch?v=g39AagVW0s0): YouTuber who does silly hobby projects with AI. A great way to get motivated
 for your own personal projects.
+- [OpenAI Hide & Seek](https://www.youtube.com/watch?v=Lu56xVlZ40M): Video about research done by OpenAI on multi-agent systems that play hide and seek.
+- [Chappie snippet](https://www.youtube.com/watch?v=At_C4jfxEg0): Clip from a movie (Chappie, 2015) where a police droid is stolen and trained by criminals.
+The movie actually gets a lot of things right about learning from experience and how data influences AI behaviour.
+- [Racist robot Tay (Microsoft)](https://www.youtube.com/watch?v=Lr4yi9onykg)
+- [Figure 01 - OpenAI speech-to-speech reasoning with an intelligent agent](https://www.youtube.com/watch?v=Sq1QZB5baNw)
+- [Figure 02 - OpenAI's new intelligent agent (06-08-2024)](https://www.youtube.com/watch?v=0SRVJaOg9Co)
 
 ## Contact
 
