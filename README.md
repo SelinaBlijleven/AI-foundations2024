@@ -44,6 +44,7 @@ exam and lesson material. Any reuploads of Exin material are password protected 
 - [What is an ontology?](https://medium.com/seek-blog/ontology-whats-that-17679130aa69)
 - [Google Gemini goes overboard with inclusivity](https://www.nytimes.com/2024/02/22/technology/google-gemini-german-uniforms.html)
 - [The Unreasonable Effectiveness of Data (Norvig 2009)](https://static.googleusercontent.com/media/research.google.com/nl//pubs/archive/35179.pdf)
+- [Amazon hiring automation discriminates against women](https://www.aclu.org/news/womens-rights/why-amazons-automated-hiring-tool-discriminated-against)
 
 ### Books
 
