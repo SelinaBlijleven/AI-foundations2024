@@ -112,4 +112,3 @@ The movie actually gets a lot of things right about learning from experience and
 ## Contact
 
 - E-mail/teams: selina.blijleven@code-cafe.nl
-- Discord: @linaanna
