@@ -108,7 +108,3 @@ The movie actually gets a lot of things right about learning from experience and
 - [Racist robot Tay (Microsoft)](https://www.youtube.com/watch?v=Lr4yi9onykg)
 - [Figure 01 - OpenAI speech-to-speech reasoning with an intelligent agent](https://www.youtube.com/watch?v=Sq1QZB5baNw)
 - [Figure 02 - OpenAI's new intelligent agent (06-08-2024)](https://www.youtube.com/watch?v=0SRVJaOg9Co)
-
-## Contact
-
-- E-mail/teams: selina.blijleven@code-cafe.nl
